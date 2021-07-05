@@ -1,6 +1,6 @@
-#include "Engine3D.h"
+#include "Vega.h"
 
-class Sandbox : public Engine3D::Application {
+class Sandbox : public Vega::Application {
 public:
 	Sandbox() 
 	{
@@ -13,7 +13,7 @@ public:
 	}
 };
 
-Engine3D::Application* Engine3D::CreateApplication()
+Vega::Application* Vega::CreateApplication()
 {
 	return new Sandbox();
 }

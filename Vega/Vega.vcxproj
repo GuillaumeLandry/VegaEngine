@@ -11,19 +11,19 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Engine3D.h" />
-    <ClInclude Include="src\Engine3D\Application.h" />
-    <ClInclude Include="src\Engine3D\Core.h" />
-    <ClInclude Include="src\Engine3D\EntryPoint.h" />
+    <ClInclude Include="src\Vega.h" />
+    <ClInclude Include="src\Vega\Application.h" />
+    <ClInclude Include="src\Vega\Core.h" />
+    <ClInclude Include="src\Vega\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Engine3D\Application.cpp" />
+    <ClCompile Include="src\Vega\Application.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{7a6e6bda-8f17-4657-bf75-c1b6dcd71316}</ProjectGuid>
-    <RootNamespace>Engine3D</RootNamespace>
+    <RootNamespace>Vega</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

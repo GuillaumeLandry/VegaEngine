@@ -1,2 +1,2 @@
-# Engine3D
-Engine3D (based on [Hazel Engine](https://github.com/TheCherno/Hazel))
+# Vega Engine
+Vega Engine, a 3D engine based on [Hazel](https://github.com/TheCherno/Hazel))

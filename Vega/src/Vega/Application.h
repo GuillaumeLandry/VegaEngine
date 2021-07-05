@@ -2,7 +2,7 @@
 
 #include "Core.h"
 
-namespace Engine3D {
+namespace Vega {
 
 	class __declspec(dllexport) Application
 	{

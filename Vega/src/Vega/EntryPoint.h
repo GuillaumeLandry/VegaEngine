@@ -2,11 +2,11 @@
 
 #ifdef E3_PLATFORM_WINDOWS
 
-extern Engine3D::Application* Engine3D::CreateApplication();
+extern Vega::Application* Vega::CreateApplication();
 
 int main(int argc, char** argv)
 {
-	auto app = Engine3D::CreateApplication();
+	auto app = Vega::CreateApplication();
 	app->Run();
 	delete app;
 }

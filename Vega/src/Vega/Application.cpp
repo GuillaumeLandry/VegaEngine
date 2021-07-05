@@ -1,6 +1,6 @@
 #include "Application.h"
 
-namespace Engine3D {
+namespace Vega {
 	Application::Application()
 	{
 	}

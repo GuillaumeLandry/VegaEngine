@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Engine3D\Core.h">
+    <ClInclude Include="src\Vega\Core.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="src\Engine3D\Application.h">
+    <ClInclude Include="src\Vega\Application.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="src\Engine3D.h">
+    <ClInclude Include="src\Vega.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="src\Engine3D\EntryPoint.h">
+    <ClInclude Include="src\Vega\EntryPoint.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Engine3D\Application.cpp">
+    <ClCompile Include="src\Vega\Application.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
