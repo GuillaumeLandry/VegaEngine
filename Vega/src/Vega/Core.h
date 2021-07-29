@@ -1,7 +1,7 @@
 #pragma once
 
-#ifdef E3_PLATFORM_WINDOWS
-	#ifdef E3_BUILD_DLL
+#ifdef VG_PLATFORM_WINDOWS
+	#ifdef VG_BUILD_DLL
 		#define VEGA_API _declspec(dllexport)
 	#else
 		#define	VEGA_API __declspec(dllimport)

@@ -1,6 +1,6 @@
 #pragma once
 
-#ifdef E3_PLATFORM_WINDOWS
+#ifdef VG_PLATFORM_WINDOWS
 
 extern Vega::Application* Vega::CreateApplication();
 
